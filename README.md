@@ -27,4 +27,4 @@ var generation = ne.nextGeneration();
 ne.networkScore(generation[x], <score = 0>);
 ```
 
-[Game.js](http://github.com/Keeta67/keeta67.github.io/blob/main/game.js).
+Aqui es pot veure el codi que he utilitzat per al joc [Game.js](http://github.com/Keeta67/keeta67.github.io/blob/main/game.js)
